@@ -1,8 +1,8 @@
 # *Funcionalidade:* Reservar Quadras
 
-Como* um morador do condomínio
-*Para* saber quais das e horários as quadras estão vagas para reservas
-*Eu quero* reservar uma quadra para uso exclusivo
+*Como um morador do condomínio
+*Para saber quais das e horários as quadras estão vagas para reservas
+*Eu quero reservar uma quadra para uso exclusivo
 
 *Cenário 1:* Reserva de quadra
 *Dado que* estou conectado na conta de morador
