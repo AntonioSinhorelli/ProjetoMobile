@@ -1,4 +1,4 @@
-# *Funcionalidade:* Reservar Quadras
+## Funcionalidade: Reservar Quadras
 
 **Como** um morador do condomínio
 **Para** saber quais das e horários as quadras estão vagas para reservas
