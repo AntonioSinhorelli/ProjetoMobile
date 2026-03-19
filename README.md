@@ -11,10 +11,13 @@
 *Quando* eu clicar em confirmar, exibe junto o Pagamento
 *Então* eu pago e a reserva está confirmada
 
-*Cenário 2:* Cancelamento de reserva de quadra
-*Dado que* estou conectado na conta de morador
-*E* tenho uma reserva de quadra já confirmada
-*Quando* eu acesso uma lista de minhas reservas e selecione a opção de cancelar
-*Então* o sistema solicita a confirmação do cancelamento
-*E* após confirmar, a reserva é cancelada
-*E* o horário da quadra volta a ficar disponível para outros moradores
+## Cenário 2: Cancelamento de reserva de quadra
+
+**Dado que** estou conectado na conta de morador  
+**E** tenho uma reserva de quadra já confirmada  
+
+**Quando** eu acessar a lista de minhas reservas e selecionar a opção de cancelar  
+
+**Então** o sistema solicita a confirmação do cancelamento  
+**E** após confirmar, a reserva é cancelada  
+**E** o horário da quadra volta a ficar disponível para outros moradores
